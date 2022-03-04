@@ -1,3 +1,1 @@
-2. questa è la modifica fatta dopo lo stash
-
-prova prova
+this is a txt file! But it could also be a snippet 
